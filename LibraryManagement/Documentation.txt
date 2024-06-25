@@ -1,0 +1,17 @@
+### Book API
+
+- **GET /api/books/**: Retrieve a list of all books.
+- **GET /api/books/{id}/**: Retrieve details of a specific book.
+- **POST /api/books/**: Create a new book.
+- **PUT /api/books/{id}/**: Update an existing book.
+- **DELETE /api/books/{id}/**: Delete a book.
+- **PUT /api/books/{id}/borrow/**: Borrow a book.
+- **PUT /api/books/{id}/return/**: Return a book.
+
+### Borrower API
+
+- **GET /api/borrowers/**: Retrieve a list of all borrowers.
+- **GET /api/borrowers/{id}/**: Retrieve details of a specific borrower.
+- **POST /api/borrowers/**: Create a new borrower.
+- **PUT /api/borrowers/{id}/**: Update an existing borrower.
+- **DELETE /api/borrowers/{id}/**: Delete a borrower.
