@@ -1,0 +1,14 @@
+### Components
+
+- **BookList**: Displays a list of books.
+- **BookDetail**: Displays details of a book.
+- **BookForm**: Form for creating/updating a book.
+- **BorrowerList**: Displays a list of borrowers.
+- **BorrowerDetail**: Displays details of a borrower.
+- **BorrowerForm**: Form for creating/updating a borrower.
+- **BorrowReturnBook**: Allows borrowing/returning a book.
+
+### Usage
+
+- Run the React app: `npm start`
+- API should be running at `http://localhost:8000/api/`
